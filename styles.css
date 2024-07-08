@@ -53,6 +53,13 @@ h2 {
     margin-right: 8px;
 }
 
+#contact img {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
